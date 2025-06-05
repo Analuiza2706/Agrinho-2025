@@ -11,23 +11,23 @@ const perguntas = [
             {
                 texto:"Ela demonstra um forte desejo de proteger a saúde e a vida da mãe, considerando o risco físico e emocional."
                 afirmacao: "<b>Protetora e empática</b>"prioriza o bem-estar físico e emocional da mãe, acreditando que, em situações de risco, a proteção da saúde da mulher deve vir em primeiro lugar, mesmo que isso envolva uma decisão difícil como o aborto"
-            }
+            },
             {
-                texto: "Exigências quanto ao  relatório médico. Os documentos preenchidos pelo médico deverão conter carimbo legível, com nome e CRM do médico, data e assinatura.",
-                afirmacao: "Você se destaca por seu <b>conhecimento</b>, o carimbo deverá conter também o número do Registro de Qualificação de Especialista (RQE)"
+                texto: "Ela pode acreditar que, em casos de risco, a preservação da saúde da mãe deve ser priorizada, refletindo uma visão de empatia e cuidado.",
+                afirmacao: "Você se destaca pela sua <b>sensibilidade</b>, pois prioriza o bem-estar físico e emocional da mãe, tomando decisões com base na compreensão e no cuidado, buscando minimizar o sofrimento imediato e futuro."
             }
         ]
     },
     {
-        enunciado: "A falta de consciência ambiental e a baixa adesão a práticas sustentáveis acontecem por vários motivos, entre os quais destacam-se:",
+        enunciado: "O que pode ser interpretado sobre uma pessoa que decide não realizar um aborto mesmo em uma situação de gravidez não planejada?",
         alternativas: [
             {
-                texto: "Falta de Educação Ambiental",
-                afirmacao: "Muitas pessoas não têm acesso a informações adequadas sobre o impacto de suas ações no meio ambiente, o que leva à falta de conscientização e, consequentemente, a comportamentos prejudiciais à <b>sustentabilidade</b>.</b>."
+                texto: " Ela provavelmente valoriza a autonomia e a liberdade da mulher, acreditando que é fundamental que a mulher tenha o direito de decidir sobre seu próprio corpo.",
+                afirmacao: "Acredita firmemente no direito da mulher de tomar decisões sobre seu corpo, valorizando a liberdade e o controle individual em questões reprodutivas sendo<b>Defensora da autonomia</b>.</b>."
             },
             {
-                texto: "Falta de Incentivos e Legislação",
-                afirmacao: "A ausência de incentivos governamentais e de uma legislação <b>rigorosa </b>faz com que empresas e indivíduos não se sintam motivados a adotar práticas sustentáveis, contribuindo para a continuidade de ações nocivas ao meio ambiente."
+                texto: "Ela pode acreditar que as escolhas pessoais e as circunstâncias de cada mulher devem ser respeitadas, sem julgamento, reconhecendo que cada situação é única.",
+                afirmacao: "<b>Respeitosa e compreensiva</b>,valoriza a individualidade das mulheres e defende o direito de escolher, sem julgamentos, reconhecendo a complexidade de cada situação."
             }
         ]
     },
