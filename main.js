@@ -6,12 +6,12 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Como faço para conseguir medicamentos não padronizados do sus?",
+        enunciado: "Como você reagiria ao se deparar com a decisão de uma pessoa de optar por um aborto em situações de risco para a saúde da mãe?",
         alternativas: [
             {
-                texto: "encaminhar-se a regional de saude do seu município, munido dos seguintes documentos: cpf ou rg, comprovante de residencia, prescriçao atualizada, receituario medico.",
-                afirmacao: "<b>Organização</b> Sim, a Sesa tem como principal função garantir o acesso ao serviços que visem a promoção, protećão e recuperação da saúde da população em todo o Paraná."
-            },
+                texto:"Ela demonstra um forte desejo de proteger a saúde e a vida da mãe, considerando o risco físico e emocional."
+                afirmacao: "<b>Protetora e empática</b>"prioriza o bem-estar físico e emocional da mãe, acreditando que, em situações de risco, a proteção da saúde da mulher deve vir em primeiro lugar, mesmo que isso envolva uma decisão difícil como o aborto"
+            }
             {
                 texto: "Exigências quanto ao  relatório médico. Os documentos preenchidos pelo médico deverão conter carimbo legível, com nome e CRM do médico, data e assinatura.",
                 afirmacao: "Você se destaca por seu <b>conhecimento</b>, o carimbo deverá conter também o número do Registro de Qualificação de Especialista (RQE)"
