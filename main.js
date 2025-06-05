@@ -19,7 +19,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "O que pode ser interpretado sobre uma pessoa que decide não realizar um aborto mesmo em uma situação de gravidez não planejada?",
+        enunciado: "O que pode ser interpretado sobre uma pessoa que defende o direito ao aborto em qualquer situação?",
         alternativas: [
             {
                 texto: " Ela provavelmente valoriza a autonomia e a liberdade da mulher, acreditando que é fundamental que a mulher tenha o direito de decidir sobre seu próprio corpo.",
@@ -32,41 +32,41 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Por que há tanta escassez de recursos na saúde pública?",
+        enunciado: "O que pode ser interpretado sobre uma pessoa que decide não realizar um aborto mesmo em uma situação de gravidez não planejada?",
         alternativas: [
             {
-                texto: "Acredito que Falta de investimento governamental",
-                afirmacao: "<b>Pragmatismo</b> A falta de investimento governamental na saúde pública decorre de orçamentos restritos e outras prioridades de gastos, levando a infraestrutura precária e serviços de saúde insuficientes."
+                texto: "Ela pode ter uma forte crença na proteção da vida, independentemente das circunstâncias, refletindo um valor profundo pela vida humana.",
+                afirmacao: "<b>Convicta e moralista</b>, pois, tem uma forte crença na sacralidade da vida desde a concepção, defendendo que a vida deve ser preservada a todo custo, independentemente das circunstâncias ou desafios da gravidez."
             },
             {
-                texto: "desigualdades na distribuição de recursos",
-                afirmacao: "<b>Detalhista</b>,Desigualdades na distribuição de recursos na saúde pública ocorrem quando os recursos são alocados de maneira desigual entre diferentes regiões ou populações. Isso pode resultar em acesso desigual a serviços de saúde, com áreas mais pobres ou rurais recebendo menos apoio e, portanto, enfrentando maiores desafios em termos de qualidade e acesso a cuidados médicos."
+                texto: "Ela pode acreditar na importância da responsabilidade pessoal e considerar que a criança deve ter a chance de viver, independentemente do contexto da gravidez.",
+                afirmacao: "<b>Responsável e ética</b>,acredita que a criança tem direito à vida e que a mulher deve assumir a responsabilidade pelas consequências da gravidez."
             }
         ]
     },
     {
-        enunciado: "Por que a violência obstétrica está cada vez mais banalizada? ",
+        enunciado: "Como você entenderia a decisão de uma pessoa de realizar um aborto em casos de anencefalia (quando o feto tem malformações cerebrais graves e inviáveis)?",
         alternativas: [
             {
-                texto: "Negligência médica",
-                afirmacao: "<b>Foco</b> Apesar do uso de algumas técnicas serem restringidas apenas para casos específicos, ainda são utilizadas diariamente por profissionais da saúde."
+                texto: " A decisão pode refletir a dor emocional e psicológica da mãe ao lidar com a expectativa de perder um filho, possivelmente levando em consideração a inevitabilidade da morte do feto.",
+                afirmacao: "<b>compassiva e protetora</b> se preocupa profundamente com o bem-estar emocional da mãe, buscando evitar o sofrimento psicológico de carregar uma criança que sabe que não sobreviveria, priorizando sua saúde mental."
             },
             {
-                texto: "Desinformação da população.",
-                afirmacao: "<b>Curiosidade</b> Mesmo com fácil acesso a informação, o assunto é pouco comentado e dado certa  importância. "
+                texto: "A escolha pode ser baseada em um desejo de evitar sofrimento tanto para a mãe quanto para o bebê, pois a criança não teria condições de sobreviver fora do útero.",
+                afirmacao: "<b> empática e pragmática</b>deseja evitar o sofrimento desnecessário tanto para a mãe quanto para o bebê, com foco em minimizar a dor e as consequências inevitáveis para ambos, demonstrando sensibilidade e racionalidade na decisão."
             }
         ]
     },
     {
-        enunciado: "Como evitar que ocorra a extinção de animais nativos?",
+        enunciado: "Como você interpretaria a postura de uma pessoa que é contra o aborto, independentemente das circunstâncias?",
         alternativas: [
             {
-                texto: "Criação de mais áreas de proteção ambiental, com grande biodiversidade ajudaria a melhorar esse cenário?",
-                afirmacao: "Sim, pois preservando nosso meio ambiente, protegemos nossos animais e facilitamos sua reprodução "
+                texto: "Ela pode ter uma forte crença moral ou religiosa que defende a vida desde a concepção, considerando que toda vida tem um valor intrínseco e deve ser preservada.",
+                afirmacao: "<b>moralista e religiosa<b>, acredita que a vida é sagrada desde a concepção e vê o aborto como uma violação do direito à vida, independentemente das circunstâncias."
             },
             {
-                texto: "Evitar intervenções de espécies não nativas neste ambiente pode ser uma alternativa?",
-                afirmacao: "Sim, animais de um determinado local não estão preparados para lidar com predadores de outras áreas, levando a um extermínio da espécie local"
+                texto: "Ela pode ver o aborto como uma escolha irreversível e acredita que há sempre alternativas, como adoção ou apoio em situações difíceis, sendo sua posição baseada em uma ideia de proteção da vida.",
+                afirmacao: "<b>ética e pragmática<b>defende alternativas ao aborto, como adoção, e acredita que a escolha de interromper a gravidez tem consequências profundas, tanto emocionais quanto espirituais."
             }
         ]
     }
