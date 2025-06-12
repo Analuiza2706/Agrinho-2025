@@ -9,7 +9,7 @@ const perguntas = [
         enunciado: "Como você reagiria ao se deparar com a decisão de uma pessoa de optar por um aborto em situações de risco para a saúde da mãe?",
         alternativas: [
             {
-                texto:"Ela demonstra um forte desejo de proteger a saúde e a vida da mãe, considerando o risco físico e emocional."
+                texto:"Ela demonstra um forte desejo de proteger a saúde e a vida da mãe, considerando o risco físico e emocional.",
                 afirmacao: "<b>Protetora e empática</b> prioriza o bem-estar físico e emocional da mãe, acreditando que, em situações de risco, a proteção da saúde da mulher deve vir em primeiro lugar, mesmo que isso envolva uma decisão difícil como o aborto"
             },
             {
