@@ -10,7 +10,7 @@ const perguntas = [
         alternativas: [
             {
                 texto:"Ela demonstra um forte desejo de proteger a saúde e a vida da mãe, considerando o risco físico e emocional."
-                afirmacao: "<b>Protetora e empática</b>"prioriza o bem-estar físico e emocional da mãe, acreditando que, em situações de risco, a proteção da saúde da mulher deve vir em primeiro lugar, mesmo que isso envolva uma decisão difícil como o aborto"
+                afirmacao: "<b>Protetora e empática</b> prioriza o bem-estar físico e emocional da mãe, acreditando que, em situações de risco, a proteção da saúde da mulher deve vir em primeiro lugar, mesmo que isso envolva uma decisão difícil como o aborto"
             },
             {
                 texto: "Ela pode acreditar que, em casos de risco, a preservação da saúde da mãe deve ser priorizada, refletindo uma visão de empatia e cuidado.",
